@@ -1,0 +1,12 @@
+section.vision {
+    color: #565E68;
+    background:#fff ;
+}
+section.vision .star-light{
+    border-color: #565E68;
+    background:#565E68;
+}
+section.vision .star-light:after{
+    border-color: #565E68;
+    background:#565E68;
+}
