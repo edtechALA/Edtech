@@ -1,0 +1,21 @@
+section.vision {
+    color: #565E68;
+    background:#fff ;
+}
+section.vision .star-light{
+    border-color: #565E68;
+    background:#565E68;
+}
+section.vision .star-light:after{
+    border-color: #565E68;
+    background:#565E68;
+}
+hr.divider{
+	 margin: 25px auto 30px;
+    padding: 0;
+    max-width:60%;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+    border-color: #ccc;
+}
